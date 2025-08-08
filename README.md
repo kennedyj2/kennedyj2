@@ -5,7 +5,7 @@
 :white_circle: Currently learning about Back End Development
 
 # 💫 About Me
-:white_circle: I'm currently working on my own Portfolio Website<br>I'm currently learning Back-End Development & JS<br>Ask me about Front-End Development, Gaming, and Project Ideas<br>Fun Fact: I am a Nintendo Fanatic, and I make a lot of personal projects based around their games/characters
+:white_circle: I'm currently working on my own Portfolio Website<br> :white_circle: I'm currently learning Back-End Development & JS<br>Ask me about Front-End Development, Gaming, and Project Ideas<br> :white_circle: Fun Fact: I am a Nintendo Fanatic, and I make a lot of personal projects based around their games/characters
 
 
 ## 🌐 Socials
