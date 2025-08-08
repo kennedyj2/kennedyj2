@@ -1,11 +1,11 @@
 ### Hi, I'm Jeremiah!
 
-Front-End Developer / Software Engineer with a love for making websites and a passion for gaming<br/>
-Studying Computer Science at Berea College in Kentucky<br/>
-Currently learning about Back End Development
+:white_circle: Front-End Developer / Software Engineer with a love for making websites and a passion for gaming<br/>
+:white_circle: Studying Computer Science at Berea College in Kentucky<br/>
+:white_circle: Currently learning about Back End Development
 
 # 💫 About Me
-I'm currently working on my own Portfolio Website<br>I'm currently learning Back-End Development & JS<br>Ask me about Front-End Development, Gaming, and Project Ideas<br>Fun Fact: I am a Nintendo Fanatic, and I make a lot of personal projects based around their games/characters
+:white_circle: I'm currently working on my own Portfolio Website<br>I'm currently learning Back-End Development & JS<br>Ask me about Front-End Development, Gaming, and Project Ideas<br>Fun Fact: I am a Nintendo Fanatic, and I make a lot of personal projects based around their games/characters
 
 
 ## 🌐 Socials
